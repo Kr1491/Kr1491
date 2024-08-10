@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Krishna Jha</h1>
 <h3 align="center">An up-and-coming developer with a strong enthusiasm for both software and web development</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207/screenshots/3848914/programmer.gif>
 
 <p align="left"> <a href="https://twitter.com/krishna57448036" target="blank"><img src="https://img.shields.io/twitter/follow/krishna57448036?logo=twitter&style=for-the-badge" alt="krishna57448036" /></a> </p>
 
