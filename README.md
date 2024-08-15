@@ -26,15 +26,14 @@
 </p>
 
 <!-- Stats Section -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kr1491&show_icons=true&locale=en&layout=compact" alt="kr1491" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kr1491&show_icons=true&locale=en" alt="kr1491" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kr1491&" alt="kr1491" />
-</p>
-
+<table align="center">
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kr1491&show_icons=true&locale=en&layout=compact" alt="kr1491" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=kr1491&show_icons=true&locale=en" alt="kr1491" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=kr1491&" alt="kr1491" /></td>
+  </tr>
+</table>
