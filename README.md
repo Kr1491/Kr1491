@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-- 🌱 I’m currently learning **Javascript, NodeJs, C++**
+- 🌱 I’m currently learning **Flutter, Firebase, React Native**
 
 - 📫 How to reach me **jhakrishna1491@gmail.com**
 
